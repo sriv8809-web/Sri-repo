@@ -1,2 +1,3 @@
 Hello 
 From today onwards i'm learning GIT
+These are my notes
